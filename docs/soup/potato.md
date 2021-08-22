@@ -14,9 +14,9 @@ widths: 15 25 80
 * - 250
   - g
   - Carrot, Leek, Celery
-* - 1
+* - 2
   - Tbsp.
-  - butter
+  - Butter
 * - 1
   - tsp.
   - Marjoram or Oregano
@@ -45,7 +45,6 @@ widths: 15 25 80
 
     Heat some oil in a heavy casserole, add butter and all the vegetables and stir fry for a few minutes to brown lightly.
     Season with salt, freshly ground black pepper and nutmeg and Marjoram or Oregano.
-    Fill up with beef stock and simmer with lid on for at least 15 minutes.
     Fill up with beef stock and simmer with lid on for at least 15 minutes.
 
 1. Step
