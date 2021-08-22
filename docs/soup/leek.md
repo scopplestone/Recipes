@@ -67,5 +67,5 @@ widths: 15 25 80
 
 1. Step
 
-    Use immersion blender to smoothly purée the soup and add water if it thickens too much. Cut the Camembert into small pieces and
-    add to the soup. Stir in the crème fraîche until smooth.
+    Use immersion blender to smoothly purée the soup and add water if it thickens too much.
+    Cut the Camembert into small pieces and add to the soup. Stir in the crème fraîche until smooth.
