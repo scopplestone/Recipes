@@ -1,4 +1,4 @@
-# Welcome to my Recipes!
+# Welcome to Stephen's Recipes!
 
 ```{toctree}
 ---

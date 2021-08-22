@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Recipes'
+project = "Stephen's Recipes"
 copyright = '2021, Stephen Copplestone'
 author = 'Stephen Copplestone'
 
