@@ -1,6 +1,6 @@
 # Potato
 
-For similar a recipe, see {cite}`Gerlach2013`.
+This recipe is modified version of {cite}`Gerlach2013`.
 
 ```{list-table}
 ---

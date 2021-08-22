@@ -1,4 +1,4 @@
-# Leek Soup
+# Leek
 
 ```{list-table}
 ---
