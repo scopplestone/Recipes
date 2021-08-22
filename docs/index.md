@@ -1,3 +1,5 @@
+![](spices.jpg)
+
 # Welcome to Stephen's Recipes!
 
 ```{toctree}

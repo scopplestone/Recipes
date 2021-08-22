@@ -20,6 +20,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = "Stephen's Recipes"
+#project = "Home"
 copyright = '2021, Stephen Copplestone'
 author = 'Stephen Copplestone'
 
@@ -79,7 +80,7 @@ html_theme_options = {
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = '../logo.png'
+html_logo = 'logo.png'
 
 # -- Bibliography ------------------------------------------------------------
 

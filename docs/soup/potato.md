@@ -51,3 +51,4 @@ widths: 15 25 80
 1. Step
 
     Use immersion blender to smoothly purée the soup and add water if it thickens too much.
+
