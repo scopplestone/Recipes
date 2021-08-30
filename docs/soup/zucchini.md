@@ -38,7 +38,10 @@ widths: 15 25 80
 1. Step
 
     Finely dice onion, coarsely cut zucchini into pieces and finely chop or press garlic clove.
-    Sauté the onion dices in heated butter for a few minutes, add the garlic, continue sautéing and finally add the zucchini and continue cooking until lightly browned.
+
+1. Step
+
+    Sauté the onion dices in heated butter for a few minutes, add the garlic, continue sautéing and finally add the zucchini and continue cooking for 5 minutes.
 
 1. Step
 
