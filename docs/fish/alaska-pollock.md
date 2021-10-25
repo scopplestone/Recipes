@@ -32,7 +32,7 @@ widths: 15 25 80
   - Cumin Powder
 * - 1
   - tsp.
-  - Coriander Poweder
+  - Coriander Powder
 * -
   -
   - Black Pepper (freshly ground)
