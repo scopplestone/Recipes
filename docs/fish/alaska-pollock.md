@@ -15,6 +15,9 @@ widths: 15 25 80
 * - 1/2
   -
   - Lemon
+* - 2
+  - Tbsp.
+  - Tomato paste
 * - 4
   - Tbsp.
   - Vegetable Oil
