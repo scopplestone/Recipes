@@ -8,6 +8,7 @@ maxdepth: 2
 caption: Recipes
 ---
 soup/index.md
+fish/index.md
 ```
 
 ```{toctree}
