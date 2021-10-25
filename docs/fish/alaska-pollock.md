@@ -12,13 +12,13 @@ widths: 15 25 80
 * - 2
   - cloves
   - Garlic
-* - 1/2
+* - 1/4
   -
-  - Lemon
+  - Lemon (or 1/2 lime)
 * - 2
   - Tbsp.
   - Tomato paste
-* - 4
+* - 5
   - Tbsp.
   - Vegetable Oil
 * - 1
