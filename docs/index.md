@@ -9,6 +9,7 @@ caption: Recipes
 ---
 soup/index.md
 fish/index.md
+meat/index.md
 ```
 
 ```{toctree}
