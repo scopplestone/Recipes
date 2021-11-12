@@ -22,7 +22,7 @@ widths: 15 25 80
 
 1. Step
 
-    If the rice is not high quality (i.e. it contains a lot of broken rice seed), rinse the rice under water to remove excess starch
+    If the rice is not of high quality (i.e. it contains a lot of broken grains), thoroughly rinse the rice under water to remove excess starch
 
 1. Step
 
@@ -32,9 +32,9 @@ widths: 15 25 80
 1. Step
 
     If the rice and water are boiling, place lid on the pan or pot and reduce the heat to minimum.
-    Cook rice for 6 minutes and remove the pan from the heat, but do not open the lid.
+    Cook rice for 8 minutes and remove the pan from the heat, but do not open the lid.
 
 1. Step
 
-    Let the rice sit for 6 minutes and remove the lid and lightly fluff up the rice letting some of the steam escape.
+    Let the rice sit for 8 minutes and remove the lid and lightly fluff up the rice letting some of the steam escape.
     The rice can now be used.
