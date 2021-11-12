@@ -1,4 +1,4 @@
-# Basmati Rice
+# Rice
 
 ```{toctree}
 ---
