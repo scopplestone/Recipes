@@ -12,6 +12,7 @@ fish/index.md
 meat/index.md
 rice/index.md
 dal/index.md
+seitan/index.md
 dessert/index.md
 beverages/index.md
 ```
