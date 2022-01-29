@@ -1,4 +1,4 @@
-# Basmati Rice
+# Plain Basmati Rice
 
 ```{list-table}
 ---
