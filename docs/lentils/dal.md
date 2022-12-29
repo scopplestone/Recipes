@@ -38,9 +38,6 @@ widths: 15 25 80
   - Salt
 * - 1
   - tsp.
-  - Coriander
-* - 1
-  - tsp.
   - Cumin Powder
 * - 1
   - tsp.

@@ -7,16 +7,17 @@
 maxdepth: 2
 caption: Recipes
 ---
-soup/index.md
-fish/index.md
-meat/index.md
-rice/index.md
-noodles/index.md
-dal/index.md
-seitan/index.md
-dessert/index.md
+beans/index.md
 beverages/index.md
+dessert/index.md
+fish/index.md
+lentils/index.md
+meat/index.md
+noodles/index.md
 pickles/index.md
+rice/index.md
+seitan/index.md
+soup/index.md
 ```
 
 ```{toctree}

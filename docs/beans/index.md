@@ -1,8 +1,8 @@
-# Dal
+# Beans
 
 ```{toctree}
 ---
 maxdepth: 2
 ---
-dal.md
+mole.md
 ```
