@@ -18,6 +18,7 @@ pickles/index.md
 rice/index.md
 seitan/index.md
 soup/index.md
+garnish/index.md
 ```
 
 ```{toctree}
