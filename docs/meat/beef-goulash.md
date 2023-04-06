@@ -56,7 +56,7 @@ widths: 15 25 80
   - Black Pepper (freshly ground)
 * -
   -
-  - Myristica fragrans (freshly ground)
+  - Nutmet (freshly ground)
 ```
 
 1. Step
