@@ -16,6 +16,7 @@ meat/index.md
 noodles/index.md
 pickles/index.md
 rice/index.md
+salads/index.md
 seitan/index.md
 soup/index.md
 garnish/index.md
