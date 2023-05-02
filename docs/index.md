@@ -10,6 +10,7 @@ caption: Recipes
 beans/index.md
 beverages/index.md
 dessert/index.md
+bread/index.md
 fish/index.md
 lentils/index.md
 meat/index.md
