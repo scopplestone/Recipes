@@ -36,7 +36,7 @@ widths: 15 25 80
   - Rice flour
 * - 6
   - Tbsp.
-  - Korean chili flakes (Gotchugaru)
+  - Korean chili flakes (Gochugaru: The name gochugaru is derived from Korean gochutgaru, where gochu (고추) means 'chili pepper' and garu (가루) means 'powder'.)
 * - 350
   - ml
   - Water
@@ -91,7 +91,7 @@ widths: 15 25 80
   - Fish sauce
 * - 4
   - Tbsp.
-  - Korean chili flakes (Gotchugaru)
+  - Korean chili flakes (Gochugaru: The name gochugaru is derived from Korean gochutgaru, where gochu (고추) means 'chili pepper' and garu (가루) means 'powder'.)
 * - 200
   - ml
   - Water
