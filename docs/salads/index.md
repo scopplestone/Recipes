@@ -6,4 +6,5 @@ maxdepth: 2
 ---
 red-cabbage.md
 kimchi.md
+potato.md
 ```
