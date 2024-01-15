@@ -37,6 +37,9 @@ widths: 15 25 80
 * - 6
   - Tbsp.
   - Korean chili flakes (Gochugaru: The name gochugaru is derived from Korean gochutgaru, where gochu (고추) means 'chili pepper' and garu (가루) means 'powder'.)
+* - 4
+  - Tbsp.
+  - Sesame seeds
 * - 350
   - ml
   - Water
