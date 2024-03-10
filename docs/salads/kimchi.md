@@ -21,11 +21,11 @@ widths: 15 25 80
   - white/red/black radish
 * - 2 to 5
   - small
-  - Chilis
+  - red/green/yellow Chilis
 * - 6
   - cloves
   - Garlic
-* - 1
+* - 1 to 2
   - Tbsp.
   - Freshly chopped ginger
 * - 1 or 2
