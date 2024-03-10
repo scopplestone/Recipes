@@ -1,4 +1,4 @@
-# Kimchi
+# Kimchi 김치
 
 ## Variant 1: with Chinese cabbage
 ```{list-table}
@@ -10,7 +10,7 @@ widths: 15 25 80
 * - 2
   - large
   - Chinese cabbages
-* - 3
+* - 3 or more
   - large
   - Spring onions
 * - 2
@@ -18,23 +18,26 @@ widths: 15 25 80
   - Carrots
 * - 1
   - small
-  - Chili
+  - white/red/black radish
+* - 2 to 5
+  - small
+  - Chilis
 * - 6
   - cloves
   - Garlic
 * - 1
   - Tbsp.
   - Freshly chopped ginger
-* - 1/2
+* - 1 or 2
   - average sized
   - Nashi pear
-* - 6
+* - 4 to 6
   - Tbsp.
   - Fish sauce
 * - 2
   - Tbsp.
   - Rice flour
-* - 6
+* - 6 or more
   - Tbsp.
   - Korean chili flakes (Gochugaru: The name gochugaru is derived from Korean gochutgaru, where gochu (고추) means 'chili pepper' and garu (가루) means 'powder'.)
 * - 4
