@@ -19,6 +19,7 @@ pickles/index.md
 rice/index.md
 salads/index.md
 seitan/index.md
+sauces/index.md
 soup/index.md
 garnish/index.md
 ```
