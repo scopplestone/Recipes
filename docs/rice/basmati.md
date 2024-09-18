@@ -14,7 +14,7 @@ widths: 15 25 80
   - Water
 * - 1
   - Tbsp.
-  - Ghee
+  - Ghee (optional)
 * - 1/2
   - tsp.
   - Salt
