@@ -21,8 +21,8 @@ import sphinx_rtd_theme
 
 project = "Stephen's Recipes"
 #project = "Home"
-copyright = '2021, Stephen Copplestone'
-author = 'Stephen Copplestone'
+copyright = '2024, Stephen C.'
+author = 'Stephen C.'
 
 # latex config
 master_doc = 'index'
