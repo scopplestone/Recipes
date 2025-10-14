@@ -24,9 +24,6 @@ widths: 15 25 80
 * - 1
   - 
   - Lemon or Lime (squeezed, only juice required)
-* - 
-  - 
-  - Dill
 ```
 
 1. Step
