@@ -49,4 +49,8 @@ widths: 15 25 80
 
 1. Step
 
-    Add radish and parsley, and mix everything and transfer to smaller container.
+    Finely slice the onion.
+
+1. Step
+
+    Add radish, onion and parsley, and mix everything and transfer to smaller container.
