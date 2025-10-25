@@ -45,7 +45,7 @@ widths: 15 25 80
 
 1. Step
 
-    Add cream, salt, pepper, caraway seeds and sugar and mix well until dissolved.
+    Add cream (adjust the amount to your liking), salt, pepper, caraway seeds and sugar and mix well until dissolved.
 
 1. Step
 
