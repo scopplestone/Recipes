@@ -30,6 +30,9 @@ widths: 15 25 80
 * - 
   - 
   - 1/2 Lemon or 1 Lime (squeezed, only juice required)
+* - 20
+  - g
+  - Freshly chopped parsley
 ```
 
 1. Step
@@ -46,4 +49,4 @@ widths: 15 25 80
 
 1. Step
 
-    Add radish, mix everything and transfer to smaller container.
+    Add radish and parsley, and mix everything and transfer to smaller container.
