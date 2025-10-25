@@ -8,4 +8,5 @@ carrot.md
 kimchi.md
 potato.md
 red-cabbage.md
+white-radish.md
 ```
